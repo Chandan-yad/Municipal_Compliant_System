@@ -31,7 +31,7 @@ The proposed system solves these problems by providing a centralized digital pla
 
 The main objectives of the Municipal Complaint Management System are:
 
-- To provide an easy platform for citizens to register complaints.
+- To provide an easy platform for citizens to register complaints...
 - To allow citizens to track the status of their complaints.
 - To help municipal authorities manage complaints efficiently.
 - To assign complaints to the appropriate department or employee.
